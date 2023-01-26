@@ -207,3 +207,12 @@ history -a
 cd .
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch backrgound.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm backrgound.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch background.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
