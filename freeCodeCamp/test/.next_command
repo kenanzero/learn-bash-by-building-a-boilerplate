@@ -268,3 +268,17 @@ history -a
 mkdir images
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir image
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
