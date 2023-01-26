@@ -340,3 +340,33 @@ history -a
 ls --color=auto -l
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+rm footer.jpeg header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm header.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touche header.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch header.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touche header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm header.jpg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
