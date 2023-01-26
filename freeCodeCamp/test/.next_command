@@ -836,3 +836,24 @@ history -a
 find toms-website/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -name boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name website-boilerplate/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name website-boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd website-boilerplate/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find website-boilerplate/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
