@@ -61,3 +61,12 @@ history -a
 ls --color=auto -l
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+ls --color=auto h
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l has has-flag has-symbols he
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd has
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
