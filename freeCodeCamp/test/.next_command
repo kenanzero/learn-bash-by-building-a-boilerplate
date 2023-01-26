@@ -776,3 +776,30 @@ history -a
 more README.md
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo for the freeCodeCamp bash leasson > README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo for the freeCodeCamp bash lesson > README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+vi README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo for the freeCodeCamp bash lesson > README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I made this boilerplate >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo from the command line >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo for the freeCodeCamp bash lesson >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo for the freeCodeCamp bash lessons >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
