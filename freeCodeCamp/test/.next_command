@@ -672,3 +672,33 @@ history -a
 touch client/assets/fonts/roboto-bold.woff
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch roboto-light.woff client/assets/fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client/assets/fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch roboto-light.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm roboto-light.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch client/assets/fonts/roboto-light.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
