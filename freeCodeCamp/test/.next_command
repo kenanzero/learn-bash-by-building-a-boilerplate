@@ -734,3 +734,6 @@ history -a
 rm -r fonts/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+ls --color=auto -l
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
